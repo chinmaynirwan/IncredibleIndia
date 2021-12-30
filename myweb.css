@@ -117,5 +117,6 @@ button{
 button:hover{
     background: transparent;
     border: 2px solid white;
-    color:grey
+    color:grey;
+    box-shadow: 4px 4px 15px lightgray;
 }
